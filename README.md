@@ -1,8 +1,8 @@
 # MozFest-2018
 [Mozilla Festival](https://mozillafestival.org/) (MozFest) is the place for all hackers, performers, students, activists, scientists, designers and beyond. 
 
-Talk title : Modern identity  (Talk Inspired by : Ado Kukic)
-Descptions : Modern identity is a lot more than just the login screen. In this talk, the audience learned about the different concepts that make up modern identity.
+* Talk title : Modern identity  (Talk Inspired by : Ado Kukic)
+* Description : Modern identity is a lot more than just the login screen. In this talk, the audience learned about the different concepts that make up modern identity.
 
 In this session, we will cover following topics :
 
