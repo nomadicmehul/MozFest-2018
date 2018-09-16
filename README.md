@@ -22,8 +22,6 @@ Authentication is one of the big parts of every application. Security is always 
 * Promote and Educate participants about authentication & authorization.
 * Learn about the different concepts that make up the modern identity.
 
-Note: MozFest is the right place where you can share your thoughts with educators, data experts who present at MozFest. Moreover, there are different spaces like Openness, Privacy and security and much more, here can get a chance to visit the gallery to interact with the audience from different age groups. 
-
 ### Prerequisite 
 
 * Open-Minded 
