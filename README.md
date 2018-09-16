@@ -15,7 +15,7 @@ In this session, we will cover following topics :
 
 You’ll have lots of opportunities to ask questions both technical and non-technical. 
 
-### What is the goal or outcome of your session?
+### Goal or outcome of your session?
 
 Authentication is one of the big parts of every application. Security is always something that is changing and evolving.
 
